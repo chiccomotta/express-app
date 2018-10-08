@@ -10,7 +10,7 @@ app.get('/', (request, response) => {
     phrases: {
       uno: 'Node.js is fantastic',
       due: 'Express.js too!',
-      voti: [6, 8, 5, 9]
+      voti: [7, 8, 4, 9]
     }
   }
 
