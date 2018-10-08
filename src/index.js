@@ -8,8 +8,8 @@ app.get('/', (request, response) => {
     name: 'Cristiano',
     likes: ['C#', 'Javascritp', 'Node.js', 'React.js'],
     phrases: {
-      uno: 'Fatti i razzi tuoi',
-      due: 'Mangia la polenta',
+      uno: 'Node.js is fantastic',
+      due: 'Express.js too!',
       voti: [6, 8, 5, 9]
     }
   }
