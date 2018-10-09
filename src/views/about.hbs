@@ -7,8 +7,13 @@
     <link href="css/styles.css" rel="stylesheet" type="text/css">
   </head>
   <body>
-    <h1>Hi, welcome to my home page</h1>
-    <p>This is my first express web app</p>
-    <a href="/">Home Page</a>
+    <h2>About Page</h1>
+    <p style="background-color:yellow">This is my about page</p>
+    <ul>
+      {{#each likes}}
+        <li>{{this}}</li>
+      {{/each}}
+    </ul>
+    <a href="/">Back to Home Page</a>
   </body>
 </html>
