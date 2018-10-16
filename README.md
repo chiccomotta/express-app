@@ -9,5 +9,3 @@ Examples of:
 - serving static files
 - routing
 - other stuff
-
-
