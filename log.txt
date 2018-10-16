@@ -1,8 +1,0 @@
-Tue Oct 16 2018 20:21:26 GMT+0200 (ora legale Europa occidentale): GET /
-Tue Oct 16 2018 20:21:26 GMT+0200 (ora legale Europa occidentale): GET /css/styles.css
-Tue Oct 16 2018 20:21:27 GMT+0200 (ora legale Europa occidentale): GET /about
-Tue Oct 16 2018 20:21:27 GMT+0200 (ora legale Europa occidentale): GET /css/styles.css
-Tue Oct 16 2018 20:21:29 GMT+0200 (ora legale Europa occidentale): GET /
-Tue Oct 16 2018 20:21:29 GMT+0200 (ora legale Europa occidentale): GET /css/styles.css
-Tue Oct 16 2018 20:21:30 GMT+0200 (ora legale Europa occidentale): GET /help.html
-Tue Oct 16 2018 20:21:30 GMT+0200 (ora legale Europa occidentale): GET /css/styles.css
